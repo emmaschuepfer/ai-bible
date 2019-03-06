@@ -7,7 +7,7 @@ exploring the interplay of artificial intelligence and religion using a multi-la
 ## Requirements
 [Tensorflow 1.2](http://www.tensorflow.org) or higher
 
-hint: use anaconda to set up a tensorflow environment which you can activate up to your needs.
+It's a good idea to use anaconda to set up a tensorflow environment which you can activate up to your needs.
 
 ## Dataset
 The bible dataset includes the whole bible as plain .txt file. 
