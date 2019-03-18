@@ -1,4 +1,4 @@
-# ai-bible-char-rnn
+# ai-bible char-rnn
 
 rewriting the world's oldest book with ai 
 ### or
