@@ -1,6 +1,6 @@
-![photo](https://github.com/emmaschuepfer/ai-bible/blob/master/photos/ai-bible.jpg)
-
 # ai-bible char-rnn
+
+![photo](https://github.com/emmaschuepfer/ai-bible/blob/master/photos/ai-bible.jpg)
 
 rewriting the world's oldest book with ai 
 ### or
