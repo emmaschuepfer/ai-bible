@@ -6,6 +6,8 @@ rewriting the world's oldest book with ai
 ### or
 exploring the interplay of artificial intelligence and religion using a multi-layer recurrent neural network for character-level language models trained on the bible
 
+---
+
 ## Requirements
 [Tensorflow 1.2](http://www.tensorflow.org) or higher
 
