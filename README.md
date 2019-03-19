@@ -25,7 +25,7 @@ Training on a different dataset: from the top level directory run `python train.
 
 To continue training after interruption or to run on more epochs, `python train.py --init_from=save`
 
-Otherwise you can access all the parameters use `python train.py --help`.
+Otherwise you can access all the parameters using `python train.py --help`.
 
 
 ## Sampling 
